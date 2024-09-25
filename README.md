@@ -22,3 +22,11 @@ Please be aware, that this might break the Ansible provisioning.
 
 The VMs can be torn down after playing around using `vagrant destroy`. This will
 also remove the kubeconfig file `ansible/k3s-kubeconfig`.
+
+## License
+
+BSD-3-Clause
+
+## Author Information
+
+I am Johannes Kastl, reachable via git@johannes-kastl.de
